@@ -3,3 +3,6 @@ Movie database:
 2. 'm.sql' file contains the sql code for creating table, inserting values into table and some queries.
 3. 'connect.php' file connects XAMPP server to our project.
 4.'db.php' file contains how we can include database connection in any part of our project.
+
+Query
+1.
